@@ -1,7 +1,7 @@
 # coal-segmentation-unet
 基于卷积神经网络的煤矸石分割识别,UCAS计算机视觉作业
 本项目基于 **PyTorch + UNet** 实现煤炭与矸石的像素级分割，并计算每张图像中煤的占比。支持训练、测试及可视化输出
-📂 目录结构
+-📂 目录结构
 - dataset.py  # 数据集类
 - model.py    # UNet模型定义
 - train.py    # 模型训练脚本
